@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'My Blog',
+  name: 'Sforza App',
   domain: 'https://www.sforza.app/',
   author: 'Sforza',
 
