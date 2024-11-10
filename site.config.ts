@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: 'Sforza App',
   domain: 'https://www.sforza.app/',
-  author: 'Sforza',
+  author: 'Dulguun Maidar',
 
   // open graph metadata (optional)
-  description: 'This is my blog',
+  description: 'Handbook',
 
   // social usernames (optional)
-  twitter: '@SforzaApp',
-  github: 'DulguunMDR',
-  linkedin: 'dulguunmaidar',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
