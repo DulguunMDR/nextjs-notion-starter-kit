@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Sforza App',
   domain: 'https://www.sforza.app/',
-  author: 'Dulguun Maidar',
+  author: 'sforza.app',
 
   // open graph metadata (optional)
   description: 'Handbook',
